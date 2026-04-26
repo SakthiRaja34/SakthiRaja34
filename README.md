@@ -48,7 +48,9 @@
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=SakthiRaja34&theme=onedark" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SakthiRaja34&theme=onedark&no-frame=true&row=1" />
+</p>
 
 ---
 
