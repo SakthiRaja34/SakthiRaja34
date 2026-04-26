@@ -48,9 +48,7 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=sakthiss2613&theme=onedark" />
 
 ---
 
