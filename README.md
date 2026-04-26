@@ -48,14 +48,14 @@
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=sakthiss2613&theme=onedark" />
+<img src="https://github-profile-trophy.vercel.app/?username=SakthiRaja34&theme=onedark" />
 
 ---
 
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakthiRaja34&theme=react-dark" />
 </p>
 
 ---
