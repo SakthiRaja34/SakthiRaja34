@@ -46,14 +46,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SakthiRaja34
-    &theme=onedark&no-frame=true&margin-w=10" />
-</p>
----
-
 ## 🔥 Contribution Graph
 
 <p align="center">
